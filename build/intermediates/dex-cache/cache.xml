@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/gson-2.3.1-660d03ce10ad3d6b9d753ec880faa2a63a1d726f.jar" />
+    </item>
+    <item
+        jar="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/vision/0.4.91/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="645086b5dc1860a57942d990038f1e1bbaa42612">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/classes-64d5b965f53e27f162e792ffd1560ff061d2092e.jar" />
+    </item>
+    <item
+        jar="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/classes-d1e8b7d86c137e5a8f33e2bc7b189471b2f612b4.jar" />
+    </item>
+    <item
+        jar="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-66c2b4341277bae6c2dbf0d92e5fa2b776fe4db0.jar" />
+    </item>
+    <item
+        jar="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/commons-io-2.4-bca62533c998c7752d0af84ba9d3f01d0e17ec96.jar" />
+    </item>
+    <item
+        jar="/Users/rafael/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c3210a7409f8690cec4b2449699d1bf56ef12a90.jar" />
+    </item>
+    <item
+        jar="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/rafael/OneDrive/Mestrado/Design Tecnol/Oxford/vision-Vision-SDK-Android/Sample/app/build/intermediates/pre-dexed/debug/classes-80433c139415e3ea40a2340c032445c3964ba668.jar" />
+    </item>
+
+</items>
